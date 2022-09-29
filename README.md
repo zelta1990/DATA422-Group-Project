@@ -8,5 +8,16 @@ about this dataset can be found at https://www.nzta.govt.nz/safety/partners/cras
 do some wrangling with this dataset or a subset of it to provide some insights on different factors such as weather, 
 car model/age and time of the day might have on the cause of accidents.
 
-2022-09-29 
+2022-09-29 Project Prototype\
 Column description  https://opendata-nzta.opendata.arcgis.com/pages/cas-data-field-descriptions
+target audience: city council
+redundant columns: TBD
+topic: frequency vs location/streetlight/traffic control/speed/stray animal/number of lanes(?)/road lane/slip or flood
+Kyle: frequency count of location;identify redundant columns; coordinates conversion
+Kenneth: road lane/number of lanes
+Miguel: speed/traffic control
+Xiaoshi: street light/stray animal/slip or flood
+
+R graph gallery for interactive map: https://r-graph-gallery.com/interactive-charts.html
+NZMG to lat lon converter: https://www.geodesy.linz.govt.nz/concord/
+
