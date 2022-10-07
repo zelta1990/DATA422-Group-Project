@@ -19,6 +19,7 @@ GetLatLong	<- function(df)		# conversion from WGS84 to GPS
   return(latlong)
   }
 
+DF2012    <- read.csv("../data/CrashData2021.csv")
 DF2012		<- DF2012[grepl("Serious|Fatal", DF2012$crashSeverity), ] 
 DF2012		<- DF2012[!grepl("01S|073|074|075|076", DF2012$crashLocation1), ] 
 
