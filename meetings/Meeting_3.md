@@ -1,6 +1,5 @@
 ## Minutes of Meeting Three	Thusday 06 Oct	12:15 - 13:45
 
-**Attendees**:	Xiaoshi Xie, Miguel Montalla,, Kenneth Rosal, Kyle Hargraves
 
 **Agenda**: 	To review assigned tasks from the meeting of 29 September and to assign further tasks.
 
