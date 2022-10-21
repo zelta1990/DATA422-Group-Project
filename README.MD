@@ -1,4 +1,4 @@
-# Environmental and Surrounding Conditions at Locations of Serious and Fatal crashes in Christchurch between 2021 and 2022
+# Environmental and Surrounding Conditions at Locations of Serious and Fatal crashes in Christchurch between 2012 and 2022
 
 ## How to
 Clone this repository to your own machine and run group-project.ipynb.
