@@ -3,9 +3,9 @@
 ## How to
 Clone this repository to your own machine and run group-project.ipynb.
 You can also run nzta_api_Julia.ipynb to see what it does however it is not required 
-for the successful run of group-project.ipynb as its result that group-project.ipynb
-is dependent on is stored in a public repository and can be downloaded by group-project.ipynb
-itself.
+for the successful run of group-project.ipynb as the execution output of nzta_api_Julia.ipynb 
+that group-project.ipynb is dependent on is stored in a public repository and can be downloaded 
+by group-project.ipynb itself.
 
 ## Expected result
 On running the last chunk of code in group-project.ipynb, you should be able to see an interactive
