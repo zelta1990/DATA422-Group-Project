@@ -13,3 +13,6 @@ map hosted on your localhost with the port specified by the execution output. Yo
 a same map deployed to R Shiny server, which can be accessed in any mainstream browser by visiting
 https://mmo191.shinyapps.io/deploy422/
 
+
+![alt text](https://github.com/zelta1990/DATA422-Group-Project/blob/main/map_screenshot.png?raw=true)
+
