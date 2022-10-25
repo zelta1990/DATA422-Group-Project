@@ -3,11 +3,13 @@
 ## How to
 1.In a terminal run "git clone https://github.com/zelta1990/DATA422-Group-Project.git"
 to clone the project code to your own machine. 
+
 2.Run group-project.ipynb. Make sure you install all required packages. 
+
 3.You can also run nzta_api_Julia.ipynb to see what it does however it is not required 
 for the successful run of group-project.ipynb as the execution output of nzta_api_Julia.ipynb 
-that group-project.ipynb is dependent on is stored in a public repository and can be downloaded 
-by group-project.ipynb itself.
+that group-project.ipynb is dependent on is stored in a public repository (https://github.com/zelta1990/crash_data_nz)
+and can be downloaded by group-project.ipynb itself.
 
 ## Expected result
 On finish running the code in group-project.ipynb, you should be able to see an interactive
