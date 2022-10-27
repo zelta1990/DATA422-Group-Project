@@ -14,7 +14,8 @@ is stored in a public repository (https://github.com/zelta1990/crash_data_nz) an
 On finish running the code in group-project.ipynb, you should be able to see an interactive
 map hosted on your localhost with the port specified by the execution output. You can also check 
 a same map deployed to R Shiny server, which can be accessed in any mainstream browser by visiting
-https://mmo191.shinyapps.io/deploy422/
+https://mmo191.shinyapps.io/deploy422/ 
+Check the Wiki page(https://github.com/zelta1990/DATA422-Group-Project/wiki) on how to use the interactive map.
 
 
 ![alt text](https://github.com/zelta1990/DATA422-Group-Project/blob/main/map_screenshot.png?raw=true)
